@@ -1,0 +1,3 @@
+import qr from "../assets/qr-demo.png";
+
+<img src={qr} alt="QR Code" className="qr-image" />
